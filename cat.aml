@@ -4,9 +4,9 @@
 
 </head>
 <body>
-    <mesh src="Cat_v1.obj" type="model/obj">
+    <mesh src="Cat_v1/Cat_v1.obj" type="model/obj">
         <material shader="color" pos="0">
-            <img src="Cat_diffuse.jpg" type="image/png" role="color"/>
+            <img src="Cat_v1/Cat_diffuse.jpg" type="image/png" role="color"/>
         </material>
     </mesh>
 </body>
